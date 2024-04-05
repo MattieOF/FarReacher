@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Farreacher.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Farreacher.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Farreacher.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Farreacher.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Farreacher.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Farreacher.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Farreacher.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Farreacher.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/Farreacher.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/Farreacher.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Farreacher.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Farreacher.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/Farreacher.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/Farreacher.forge.test.iml" />
+    </modules>
+  </component>
+</project>

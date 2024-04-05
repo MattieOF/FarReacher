@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "farreacher",
+  "version": "${version}",
+
+  "name": "FarReacher",
+  "description": "Reimplements the farlands and turns them into a gameplay mechanic",
+  "authors": [
+    {
+      "name": "Matt Ware",
+      "contact": {
+        "homepage": "https://mattware.dev/",
+        "email": "mattbware3@gmail.com"
+      }
+    }
+  ],
+  "contact": {},
+
+  "license": "MIT",
+  "icon": "assets/farreacher/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.mattware.farreacher.fabric.FarReacherFabric"
+    ]
+  },
+  "mixins": [
+    "farreacher.mixins.json",
+    "farreacher-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.9",
+    "minecraft": ">=1.20.1"
+  }
+}
