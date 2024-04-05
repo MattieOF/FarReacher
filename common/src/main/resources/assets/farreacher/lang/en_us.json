@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.farreacher.title": "FarReacher Config",
+  "text.autoconfig.farreacher.category.server": "Server Config",
+  "text.autoconfig.farreacher.option.serverConfig.testValue": "Test Value",
+  "text.autoconfig.farreacher.category.client": "Client Config"
+}
